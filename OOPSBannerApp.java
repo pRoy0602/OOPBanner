@@ -4,7 +4,7 @@
 *This class demonstrates  simple Jana application that displays the Object
 *Oriented programming Sysyem OOPS acronym to the console.
 *
-*@auhor Musa
+*@auhor Prince
 *@version 1.0
 */
 public class OOPSBannerApp{
